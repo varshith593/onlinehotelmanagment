@@ -82,28 +82,26 @@ A desktop application built with **Java Swing** and **MySQL** database for manag
 
 HotelManagementSystem/
 ├── src/
-│ └── com/
-│ └── hotel/
-│ ├── database/
-│ │ └── DatabaseConnection.java
-│ ├── model/
-│ │ └── Room.java
-│ ├── gui/
-│ │ ├── LoginFrame.java
-│ │ ├── DashboardFrame.java
-│ │ ├── AddRoomFrame.java
-│ │ ├── ViewRoomsFrame.java
-│ │ ├── AddCustomerFrame.java
-│ │ ├── ViewCustomersFrame.java
-│ │ ├── BookingFrame.java
-│ │ └── ViewBookingsFrame.java
-│ └── main/
-│ └── Main.java
+│   └── com/
+│       └── hotel/
+│           ├── database/
+│           │   └── DatabaseConnection.java
+│           ├── model/
+│           │   └── Room.java
+│           ├── gui/
+│           │   ├── LoginFrame.java
+│           │   ├── DashboardFrame.java
+│           │   ├── AddRoomFrame.java
+│           │   ├── ViewRoomsFrame.java
+│           │   ├── AddCustomerFrame.java
+│           │   ├── ViewCustomersFrame.java
+│           │   ├── BookingFrame.java
+│           │   └── ViewBookingsFrame.java
+│           └── main/
+│               └── Main.java
 ├── lib/
-│ └── mysql-connector-j-9.5.0.jar
+│   └── mysql-connector-j-9.5.0.jar
 └── README.md
-
-
 ---
 
 ## Database Schema
