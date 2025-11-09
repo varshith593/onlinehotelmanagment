@@ -5,7 +5,7 @@ import java.sql.*;
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/hotel_management";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "123456789"; // Make sure this is correct!
+    private static final String PASSWORD = "123456789";//password of your sql host mine is this you need to change it to your password
 
 
     public static Connection getConnection() {
